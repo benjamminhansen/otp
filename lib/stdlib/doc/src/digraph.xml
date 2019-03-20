@@ -318,7 +318,7 @@
       <desc>
         <p>Returns a list of all
         edges <seealso marker="#emanate">emanating</seealso> from or 
-        <seealso marker="#incident">incident</seealso> on<c><anno>V</anno></c>
+        <seealso marker="#incident">incident</seealso> on <c><anno>V</anno></c>
         of digraph <c><anno>G</anno></c>, in some unspecified order.</p>
       </desc>
     </func>
